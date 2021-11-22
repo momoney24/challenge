@@ -1,0 +1,18 @@
+.userList h3,
+.userList h5{
+    margin:0;
+    margin-bottom: 10px;
+}
+
+.userList table{
+    width:400px;
+}
+.userList table tr th,
+.userList table tr td{
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+}
+.userList table tr th{
+    font-weight: bold;
+    text-align: left;
+}
